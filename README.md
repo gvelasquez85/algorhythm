@@ -1,4 +1,4 @@
-# Repo for Alghorythm! 
+# Repo for Algorhythm! 
 
 Hello Timothy!, here you will find my Coding Test!.
 
